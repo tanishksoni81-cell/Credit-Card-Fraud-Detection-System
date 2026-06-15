@@ -134,6 +134,6 @@ This solution demonstrates how machine learning can assist financial institution
 
 ---
 
-## Author
+## Tanishk Soni
 
 Aspiring Data Analyst / Data Scientist focused on building end-to-end data and machine learning solutions that solve real-world business problems.
